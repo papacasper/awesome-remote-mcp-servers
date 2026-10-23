@@ -903,7 +903,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Run load tests and synthetic monitors, including Playwright scripts, and analyze results.
 - [mcp-toolbelt](https://papacasper.com) `https://papacasper.com/mcp`
   [![mcp-toolbelt MCP connector](https://glama.ai/mcp/connectors/com.papacasper/mcp-toolbelt/badges/score.svg)](https://glama.ai/mcp/connectors/com.papacasper/mcp-toolbelt)
-  🔓 - 29 pay-per-call DNS, WHOIS, SEO, SSL, security, email, and AI-readiness tools for agents. Pay per call with x402 (USDC on Base).
+  🔓 - 29 pay-per-call DNS, WHOIS, SEO, SSL, security, email and AI-readiness tools for agents, paid via x402 (USDC on Base).
 - [MemorySync Documentation](https://docs.memorysync.io/mcp/overview) `https://docs.memorysync.io/mcp`
   [![MemorySync Docs MCP connector](https://glama.ai/mcp/connectors/io.memorysync/docs/badges/score.svg)](https://glama.ai/mcp/connectors/io.memorysync/docs)
   🔓 - Search and read MemorySync's API, SDK and integration docs.
